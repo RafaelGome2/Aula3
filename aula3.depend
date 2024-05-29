@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1716599223 source:c:\users\rafae\onedrive\documentos\rafael gomes\faculdade eng\estruturadedados\aula3\ex1_malloc.c
+	<stdio.h>
+	<stdlib.h>
+
+1716748624 source:c:\users\rafae\onedrive\documentos\rafael gomes\faculdade eng\estruturadedados\aula3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1716599679 source:c:\users\rafae\onedrive\documentos\rafael gomes\faculdade eng\estruturadedados\aula3\ex_calloc.c
+	<stdio.h>
+	<stdlib.h>
+
+1716599746 source:c:\users\rafae\onedrive\documentos\rafael gomes\faculdade eng\estruturadedados\aula3\exrealloc.c
+	<stdio.h>
+	<stdlib.h>
+
+1716599892 source:c:\users\rafae\downloads\ex4_notas (1).c
+
+1716597217 source:c:\users\rafae\onedrive\documentos\rafael gomes\faculdade eng\estruturadedados\aula3\ex4_notas.c
+	<stdio.h>
+	<stdlib.h>
+
+1716599989 source:c:\users\rafae\onedrive\documentos\rafael gomes\faculdade eng\estruturadedados\aula3\ex5_matriz.c
+	<stdio.h>
+	<stdlib.h>
+
+1716599993 source:c:\users\rafae\onedrive\documentos\rafael gomes\faculdade eng\estruturadedados\aula3\ex6_registro.c
+	<stdio.h>
+	<stdlib.h>
+
